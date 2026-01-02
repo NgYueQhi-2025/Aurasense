@@ -130,7 +130,7 @@ SmartJournaling-main/
 - Maven
 
 ### Setup
-Open one `Powershell`  terminal
+Open one `Powershell`  terminal  
 Set the token there:
 ```
 $env:HF_TOKEN="your_huggingface_token_here"
